@@ -6,6 +6,8 @@ The first game I ever made. I made sprites that had a collision box that moved u
 
 The repository for this cannot be shared as it no longer exists.
 
+![Jellyfish Game](https://github.com/user-attachments/assets/a6315b05-e159-42f7-bf33-8bb2018abdec)
+
 ----------------------------------
 ## Tiger Run
 The first of many collaborative projects. I was team leader for this project. I organised communication, responsibilities and helped out when other team members got stuck or confused.
@@ -14,12 +16,16 @@ The project is of a tiger trying to avoid obstacles and enemies while collecting
 
 The repository for this cannot be shared as it no longer exists.
 
+![Tiger Run Game](https://github.com/user-attachments/assets/20e47147-53e7-4b7d-a876-9098bc1f8450)
+
 ----------------------------------
 ## Find the Way
 The first game created using html. Find the Way is a maze-like game where you us buttons to reveal the path towards the exit. I had lots of fun making the enemy move, adding a joystick so it can be played on mobile and making it downloadable for mobile devices as well.
 The game would also save your data allowing you to pick up where you left off.
 
 The repository for this cannot be shared as it no longer exists.
+
+![Find the Way HTML Game](https://github.com/user-attachments/assets/6ce434d1-05bb-4b15-b2ac-65a5ba87c23c)
 
 ----------------------------------
 ## Tank shooter
@@ -33,5 +39,6 @@ One of the bugs is that the escort tank, when you click and hold, will contiousl
 
 The repository for this cannot be shared as it is private and not owned by me.
 
+![Tank shooter Game](https://github.com/user-attachments/assets/5f30176c-59a2-42ed-8b3e-9c3868aab42e)
 
 
