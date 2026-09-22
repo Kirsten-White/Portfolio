@@ -35,10 +35,13 @@ The players bullets use pools to make shooting and run time more efficient. The 
 
 You score points by successfully moving the escort tank to a new position and hitting enemies. You lose points by getting hit by enemies and getting the escort tank hit by enemies.
 
-One of the bugs is that the escort tank, when you click and hold, will contiously add to the score when it reaches the position.
+One of the bugs is that the escort tank, when you click and hold, will continuously add to the score when it reaches the position.
 
 The repository for this cannot be shared as it is private and not owned by me.
 
 ![Tank shooter Game](https://github.com/user-attachments/assets/5f30176c-59a2-42ed-8b3e-9c3868aab42e)
+----------------------------------
+## Projects
+Here is a link to the complete versions of my projects as I realise that I do not have access to public the repositories
 
-
+### [GitHub Repository](https://github.com/Kirsten-White/Projects)
